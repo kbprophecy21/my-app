@@ -1,5 +1,5 @@
 import { Component } from 'react';
-//import './App.css';
+//import './App.css'; needs a hook up... not on the right path
 
 const Navbar = () => {
     return (
